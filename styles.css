@@ -1,1 +1,9 @@
-
+.left{
+	width:50%;
+	display:flex;
+	/* flex:column; */
+}
+#img1{
+	width:120px;
+	
+}
